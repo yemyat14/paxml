@@ -1,0 +1,1569 @@
+<response status="success"><result>
+	<entry>
+		<domain/>
+		<islocal>no</islocal>
+		<username>BYNUser01</username>
+		<primary-username>bynuser01</primary-username>
+		<region-for-config>MM</region-for-config>
+		<source-region>MM</source-region>
+		<computer>EOYLT-05</computer>
+		<client>Microsoft Windows 10 Pro , 64-bit</client>
+		<vpn-type>Device Level VPN</vpn-type>
+		<host-id>cb1e0e94-393e-434d-9a87-858192a9533d</host-id>
+		<app-version>6.1.1-5</app-version>
+		<virtual-ip>10.11.11.83</virtual-ip>
+		<virtual-ipv6>::</virtual-ipv6>
+		<public-ip>45.125.4.178</public-ip>
+		<public-ipv6>::</public-ipv6>
+		<tunnel-type>IPSec</tunnel-type>
+		<public-connection-ipv6>no</public-connection-ipv6>
+		<client-ip>45.125.4.178</client-ip>
+		<login-time>Dec.17 15:29:22</login-time>
+		<login-time-utc>1734425962</login-time-utc>
+		<lifetime>2592000</lifetime>
+		<request-login>2024-12-17 15:29:22.889 (1734425962889), 45.125.4.178
+</request-login>
+		<request-getconfig>2024-12-17 15:29:23.057 (1734425963057), 45.125.4.178
+</request-getconfig>
+		<request-sslvpnconnect> (0), ::
+</request-sslvpnconnect></entry>
+	<entry>
+		<domain/>
+		<islocal>no</islocal>
+		<username>pbtragenthub</username>
+		<primary-username>pbtragenthub</primary-username>
+		<region-for-config>MM</region-for-config>
+		<source-region>MM</source-region>
+		<computer>SAH004-LT02</computer>
+		<client>Microsoft Windows 10 Pro , 64-bit</client>
+		<vpn-type>Device Level VPN</vpn-type>
+		<host-id>3e8a84c9-7abb-47c9-a6f6-f05965fbb617</host-id>
+		<app-version>6.1.2-83</app-version>
+		<virtual-ip>10.11.10.81</virtual-ip>
+		<virtual-ipv6>::</virtual-ipv6>
+		<public-ip>202.157.190.50</public-ip>
+		<public-ipv6>::</public-ipv6>
+		<tunnel-type>IPSec</tunnel-type>
+		<public-connection-ipv6>no</public-connection-ipv6>
+		<client-ip>202.157.190.50</client-ip>
+		<login-time>Dec.17 12:17:52</login-time>
+		<login-time-utc>1734414472</login-time-utc>
+		<lifetime>2592000</lifetime>
+		<request-login>2024-12-17 12:17:52.582 (1734414472582), 202.157.190.50
+</request-login>
+		<request-getconfig>2024-12-17 12:17:52.802 (1734414472802), 202.157.190.50
+</request-getconfig>
+		<request-sslvpnconnect> (0), ::
+</request-sslvpnconnect></entry>
+	<entry>
+		<domain/>
+		<islocal>no</islocal>
+		<username>mdagenthub</username>
+		<primary-username>mdagenthub</primary-username>
+		<region-for-config>MM</region-for-config>
+		<source-region>MM</source-region>
+		<computer>SAH011-LT02</computer>
+		<client>Microsoft Windows 10 Pro , 64-bit</client>
+		<vpn-type>Device Level VPN</vpn-type>
+		<host-id>fbc4b306-492b-4f77-9d1d-789d3c9c3b2e</host-id>
+		<app-version>6.1.1-5</app-version>
+		<virtual-ip>10.11.10.82</virtual-ip>
+		<virtual-ipv6>::</virtual-ipv6>
+		<public-ip>45.41.109.106</public-ip>
+		<public-ipv6>::</public-ipv6>
+		<tunnel-type>IPSec</tunnel-type>
+		<public-connection-ipv6>no</public-connection-ipv6>
+		<client-ip>45.41.109.106</client-ip>
+		<login-time>Dec.17 16:13:37</login-time>
+		<login-time-utc>1734428617</login-time-utc>
+		<lifetime>2592000</lifetime>
+		<request-login>2024-12-17 16:13:37.689 (1734428617689), 45.41.109.106
+</request-login>
+		<request-getconfig>2024-12-17 16:13:37.902 (1734428617902), 45.41.109.106
+</request-getconfig>
+		<request-sslvpnconnect> (0), ::
+</request-sslvpnconnect></entry>
+	<entry>
+		<domain/>
+		<islocal>no</islocal>
+		<username>hlpyae</username>
+		<primary-username>hlpyae</primary-username>
+		<region-for-config>MM</region-for-config>
+		<source-region>MM</source-region>
+		<computer>SBLT-178</computer>
+		<client>Microsoft Windows 10 Pro , 64-bit</client>
+		<vpn-type>Device Level VPN</vpn-type>
+		<host-id>fbc4b306-492b-4f77-9d1d-789d3c9c3b2e</host-id>
+		<app-version>6.1.2-83</app-version>
+		<virtual-ip>10.11.10.38</virtual-ip>
+		<virtual-ipv6>::</virtual-ipv6>
+		<public-ip>103.52.228.75</public-ip>
+		<public-ipv6>::</public-ipv6>
+		<tunnel-type>IPSec</tunnel-type>
+		<public-connection-ipv6>no</public-connection-ipv6>
+		<client-ip>103.52.228.75</client-ip>
+		<login-time>Dec.17 15:38:05</login-time>
+		<login-time-utc>1734426485</login-time-utc>
+		<lifetime>2592000</lifetime>
+		<request-login>2024-12-17 15:38:05.854 (1734426485854), 103.52.228.75
+</request-login>
+		<request-getconfig>2024-12-17 15:38:06.058 (1734426486058), 103.52.228.75
+</request-getconfig>
+		<request-sslvpnconnect> (0), ::
+</request-sslvpnconnect></entry>
+	<entry>
+		<domain/>
+		<islocal>no</islocal>
+		<username>BO_nssyee</username>
+		<primary-username>bo_nssyee</primary-username>
+		<region-for-config>MM</region-for-config>
+		<source-region>MM</source-region>
+		<computer>SBLT-026</computer>
+		<client>Microsoft Windows 11 Pro , 64-bit</client>
+		<vpn-type>Device Level VPN</vpn-type>
+		<host-id>fc183546-b71c-4b36-aafc-1e4023917cb8</host-id>
+		<app-version>6.1.2-83</app-version>
+		<virtual-ip>10.11.10.226</virtual-ip>
+		<virtual-ipv6>::</virtual-ipv6>
+		<public-ip>103.52.228.75</public-ip>
+		<public-ipv6>::</public-ipv6>
+		<tunnel-type>IPSec</tunnel-type>
+		<public-connection-ipv6>no</public-connection-ipv6>
+		<client-ip>103.52.228.75</client-ip>
+		<login-time>Dec.17 13:08:30</login-time>
+		<login-time-utc>1734417510</login-time-utc>
+		<lifetime>2592000</lifetime>
+		<request-login>2024-12-17 13:08:30.029 (1734417510029), 103.52.228.75
+</request-login>
+		<request-getconfig>2024-12-17 13:08:30.230 (1734417510230), 103.52.228.75
+</request-getconfig>
+		<request-sslvpnconnect> (0), ::
+</request-sslvpnconnect></entry>
+	<entry>
+		<domain/>
+		<islocal>no</islocal>
+		<username>nnmaung</username>
+		<primary-username>nnmaung</primary-username>
+		<region-for-config>MM</region-for-config>
+		<source-region>MM</source-region>
+		<computer>SBLT-003</computer>
+		<client>Microsoft Windows 11 Pro , 64-bit</client>
+		<vpn-type>Device Level VPN</vpn-type>
+		<host-id>481670c1-9387-4b93-80a9-d93e06f84aff</host-id>
+		<app-version>6.1.2-83</app-version>
+		<virtual-ip>10.11.10.14</virtual-ip>
+		<virtual-ipv6>::</virtual-ipv6>
+		<public-ip>103.52.228.75</public-ip>
+		<public-ipv6>::</public-ipv6>
+		<tunnel-type>IPSec</tunnel-type>
+		<public-connection-ipv6>no</public-connection-ipv6>
+		<client-ip>103.52.228.75</client-ip>
+		<login-time>Dec.17 16:11:32</login-time>
+		<login-time-utc>1734428492</login-time-utc>
+		<lifetime>2592000</lifetime>
+		<request-login>2024-12-17 16:11:32.325 (1734428492325), 103.52.228.75
+</request-login>
+		<request-getconfig>2024-12-17 16:11:32.566 (1734428492566), 103.52.228.75
+</request-getconfig>
+		<request-sslvpnconnect> (0), ::
+</request-sslvpnconnect></entry>
+	<entry>
+		<domain/>
+		<islocal>no</islocal>
+		<username>sonph</username>
+		<primary-username>sonph</primary-username>
+		<region-for-config>VN</region-for-config>
+		<source-region>VN</source-region>
+		<computer>5CG7182KGG</computer>
+		<client>Microsoft Windows 10 Pro , 64-bit</client>
+		<vpn-type>Device Level VPN</vpn-type>
+		<host-id>4da5728d-50af-412a-9100-cb3e82c72d86</host-id>
+		<app-version>6.1.1-5</app-version>
+		<virtual-ip>10.11.10.61</virtual-ip>
+		<virtual-ipv6>::</virtual-ipv6>
+		<public-ip>14.241.240.247</public-ip>
+		<public-ipv6>::</public-ipv6>
+		<tunnel-type>IPSec</tunnel-type>
+		<public-connection-ipv6>no</public-connection-ipv6>
+		<client-ip>14.241.240.247</client-ip>
+		<login-time>Dec.17 12:33:52</login-time>
+		<login-time-utc>1734415432</login-time-utc>
+		<lifetime>2592000</lifetime>
+		<request-login>2024-12-17 12:33:52.057 (1734415432057), 14.241.240.247
+</request-login>
+		<request-getconfig>2024-12-17 12:33:52.510 (1734415432510), 14.241.240.247
+</request-getconfig>
+		<request-sslvpnconnect> (0), ::
+</request-sslvpnconnect></entry>
+	<entry>
+		<domain/>
+		<islocal>no</islocal>
+		<username>hgagenthub</username>
+		<primary-username>hgagenthub</primary-username>
+		<region-for-config>MM</region-for-config>
+		<source-region>MM</source-region>
+		<computer>SHA010-LT02</computer>
+		<client>Microsoft Windows 10 Pro , 64-bit</client>
+		<vpn-type>Device Level VPN</vpn-type>
+		<host-id>cb1e0e94-393e-434d-9a87-858192a9533d</host-id>
+		<app-version>6.1.1-5</app-version>
+		<virtual-ip>10.11.10.108</virtual-ip>
+		<virtual-ipv6>::</virtual-ipv6>
+		<public-ip>45.125.5.169</public-ip>
+		<public-ipv6>::</public-ipv6>
+		<tunnel-type>IPSec</tunnel-type>
+		<public-connection-ipv6>no</public-connection-ipv6>
+		<client-ip>45.125.5.169</client-ip>
+		<login-time>Dec.17 11:08:14</login-time>
+		<login-time-utc>1734410294</login-time-utc>
+		<lifetime>2592000</lifetime>
+		<request-login>2024-12-17 11:08:14.959 (1734410294959), 45.125.5.169
+</request-login>
+		<request-getconfig>2024-12-17 11:08:15.168 (1734410295168), 45.125.5.169
+</request-getconfig>
+		<request-sslvpnconnect> (0), ::
+</request-sslvpnconnect></entry>
+	<entry>
+		<domain/>
+		<islocal>no</islocal>
+		<username>Dg_tkyaw</username>
+		<primary-username>dg_tkyaw</primary-username>
+		<region-for-config>MM</region-for-config>
+		<source-region>MM</source-region>
+		<computer>SBLT-231</computer>
+		<client>Microsoft Windows 11 Pro , 64-bit</client>
+		<vpn-type>Device Level VPN</vpn-type>
+		<host-id>cc734015-9002-40da-bbdf-655a9973d859</host-id>
+		<app-version>6.1.1-5</app-version>
+		<virtual-ip>10.11.10.130</virtual-ip>
+		<virtual-ipv6>::</virtual-ipv6>
+		<public-ip>103.52.228.75</public-ip>
+		<public-ipv6>::</public-ipv6>
+		<tunnel-type>IPSec</tunnel-type>
+		<public-connection-ipv6>no</public-connection-ipv6>
+		<client-ip>103.52.228.75</client-ip>
+		<login-time>Dec.17 09:22:49</login-time>
+		<login-time-utc>1734403969</login-time-utc>
+		<lifetime>2592000</lifetime>
+		<request-login>2024-12-17 09:22:49.930 (1734403969930), 103.52.228.75
+</request-login>
+		<request-getconfig>2024-12-17 09:22:50.199 (1734403970199), 103.52.228.75
+</request-getconfig>
+		<request-sslvpnconnect> (0), ::
+</request-sslvpnconnect></entry>
+	<entry>
+		<domain/>
+		<islocal>no</islocal>
+		<username>khagenthub</username>
+		<primary-username>khagenthub</primary-username>
+		<region-for-config>MM</region-for-config>
+		<source-region>MM</source-region>
+		<computer>SAH007-LT02</computer>
+		<client>Microsoft Windows 10 Pro , 64-bit</client>
+		<vpn-type>Device Level VPN</vpn-type>
+		<host-id>3e8a84c9-7abb-47c9-a6f6-f05965fbb617</host-id>
+		<app-version>6.1.1-5</app-version>
+		<virtual-ip>10.11.10.111</virtual-ip>
+		<virtual-ipv6>::</virtual-ipv6>
+		<public-ip>156.236.2.252</public-ip>
+		<public-ipv6>::</public-ipv6>
+		<tunnel-type>IPSec</tunnel-type>
+		<public-connection-ipv6>no</public-connection-ipv6>
+		<client-ip>156.236.2.238</client-ip>
+		<login-time>Dec.17 14:56:28</login-time>
+		<login-time-utc>1734423988</login-time-utc>
+		<lifetime>2592000</lifetime>
+		<request-login>2024-12-17 14:56:28.390 (1734423988390), 156.236.2.238
+</request-login>
+		<request-getconfig>2024-12-17 14:56:28.593 (1734423988593), 156.236.2.238
+</request-getconfig>
+		<request-sslvpnconnect> (0), ::
+</request-sslvpnconnect></entry>
+	<entry>
+		<domain/>
+		<islocal>no</islocal>
+		<username>longnh</username>
+		<primary-username>longnh</primary-username>
+		<region-for-config>VN</region-for-config>
+		<source-region>VN</source-region>
+		<computer>DESKTOP-2QNUVLP</computer>
+		<client>Microsoft Windows 10 Pro , 64-bit</client>
+		<vpn-type>Device Level VPN</vpn-type>
+		<host-id>103e01d5-20cc-4a04-b160-f180f2d0c56f</host-id>
+		<app-version>6.1.1-5</app-version>
+		<virtual-ip>10.11.10.58</virtual-ip>
+		<virtual-ipv6>::</virtual-ipv6>
+		<public-ip>14.161.24.35</public-ip>
+		<public-ipv6>::</public-ipv6>
+		<tunnel-type>IPSec</tunnel-type>
+		<public-connection-ipv6>no</public-connection-ipv6>
+		<client-ip>14.161.24.35</client-ip>
+		<login-time>Dec.16 09:03:49</login-time>
+		<login-time-utc>1734316429</login-time-utc>
+		<lifetime>2592000</lifetime>
+		<request-login>2024-12-16 09:03:49.915 (1734316429915), 14.161.24.35
+</request-login>
+		<request-getconfig>2024-12-16 09:03:50.269 (1734316430269), 14.161.24.35
+</request-getconfig>
+		<request-sslvpnconnect> (0), ::
+</request-sslvpnconnect></entry>
+	<entry>
+		<domain/>
+		<islocal>no</islocal>
+		<username>Dg_slylwin</username>
+		<primary-username>dg_slylwin</primary-username>
+		<region-for-config>MM</region-for-config>
+		<source-region>MM</source-region>
+		<computer>SBLT-225</computer>
+		<client>Microsoft Windows 10 Pro , 64-bit</client>
+		<vpn-type>Device Level VPN</vpn-type>
+		<host-id>cc734015-9002-40da-bbdf-655a9973d859</host-id>
+		<app-version>6.1.2-83</app-version>
+		<virtual-ip>10.11.10.129</virtual-ip>
+		<virtual-ipv6>::</virtual-ipv6>
+		<public-ip>103.52.228.75</public-ip>
+		<public-ipv6>::</public-ipv6>
+		<tunnel-type>IPSec</tunnel-type>
+		<public-connection-ipv6>no</public-connection-ipv6>
+		<client-ip>103.52.228.75</client-ip>
+		<login-time>Dec.17 11:24:19</login-time>
+		<login-time-utc>1734411259</login-time-utc>
+		<lifetime>2592000</lifetime>
+		<request-login>2024-12-17 11:24:19.955 (1734411259955), 103.52.228.75
+</request-login>
+		<request-getconfig>2024-12-17 11:24:20.147 (1734411260147), 103.52.228.75
+</request-getconfig>
+		<request-sslvpnconnect> (0), ::
+</request-sslvpnconnect></entry>
+	<entry>
+		<domain/>
+		<islocal>no</islocal>
+		<username>ttgagenthub</username>
+		<primary-username>ttgagenthub</primary-username>
+		<region-for-config>MM</region-for-config>
+		<source-region>MM</source-region>
+		<computer>SBLT-216</computer>
+		<client>Microsoft Windows 10 Pro , 64-bit</client>
+		<vpn-type>Device Level VPN</vpn-type>
+		<host-id>cb1e0e94-393e-434d-9a87-858192a9533d</host-id>
+		<app-version>6.1.2-83</app-version>
+		<virtual-ip>10.11.10.85</virtual-ip>
+		<virtual-ipv6>::</virtual-ipv6>
+		<public-ip>185.205.141.19</public-ip>
+		<public-ipv6>::</public-ipv6>
+		<tunnel-type>IPSec</tunnel-type>
+		<public-connection-ipv6>no</public-connection-ipv6>
+		<client-ip>185.205.141.23</client-ip>
+		<login-time>Dec.17 14:12:21</login-time>
+		<login-time-utc>1734421341</login-time-utc>
+		<lifetime>2592000</lifetime>
+		<request-login>2024-12-17 14:12:21.933 (1734421341933), 185.205.141.23
+</request-login>
+		<request-getconfig>2024-12-17 14:12:23.891 (1734421343891), 185.205.141.23
+</request-getconfig>
+		<request-sslvpnconnect> (0), ::
+</request-sslvpnconnect></entry>
+	<entry>
+		<domain/>
+		<islocal>no</islocal>
+		<username>ammin</username>
+		<primary-username>ammin</primary-username>
+		<region-for-config>MM</region-for-config>
+		<source-region>MM</source-region>
+		<computer>SBLT-001</computer>
+		<client>Microsoft Windows 11 Pro , 64-bit</client>
+		<vpn-type>Device Level VPN</vpn-type>
+		<host-id>d7f7c0c0-75d9-42ae-9730-83873b608c39</host-id>
+		<app-version>6.1.2-83</app-version>
+		<virtual-ip>10.11.10.13</virtual-ip>
+		<virtual-ipv6>::</virtual-ipv6>
+		<public-ip>69.160.9.100</public-ip>
+		<public-ipv6>::</public-ipv6>
+		<tunnel-type>IPSec</tunnel-type>
+		<public-connection-ipv6>no</public-connection-ipv6>
+		<client-ip>69.160.9.100</client-ip>
+		<login-time>Dec.17 14:33:31</login-time>
+		<login-time-utc>1734422611</login-time-utc>
+		<lifetime>2592000</lifetime>
+		<request-login>2024-12-17 14:33:31.905 (1734422611905), 69.160.9.100
+</request-login>
+		<request-getconfig>2024-12-17 14:33:31.956 (1734422611956), 69.160.9.100
+</request-getconfig>
+		<request-sslvpnconnect> (0), ::
+</request-sslvpnconnect></entry>
+	<entry>
+		<domain/>
+		<islocal>no</islocal>
+		<username>doagenthub</username>
+		<primary-username>doagenthub</primary-username>
+		<region-for-config>MM</region-for-config>
+		<source-region>MM</source-region>
+		<computer>BGO01-PC01</computer>
+		<client>Microsoft Windows 11 Pro , 64-bit</client>
+		<vpn-type>Device Level VPN</vpn-type>
+		<host-id>b00ed2e0-48d4-4b3a-86c9-f553f9b17672</host-id>
+		<app-version>6.1.1-5</app-version>
+		<virtual-ip>10.11.10.109</virtual-ip>
+		<virtual-ipv6>::</virtual-ipv6>
+		<public-ip>37.111.42.22</public-ip>
+		<public-ipv6>::</public-ipv6>
+		<tunnel-type>IPSec</tunnel-type>
+		<public-connection-ipv6>no</public-connection-ipv6>
+		<client-ip>37.111.42.22</client-ip>
+		<login-time>Dec.17 15:45:20</login-time>
+		<login-time-utc>1734426920</login-time-utc>
+		<lifetime>2592000</lifetime>
+		<request-login>2024-12-17 15:45:20.134 (1734426920134), 37.111.42.22
+</request-login>
+		<request-getconfig>2024-12-17 15:45:20.380 (1734426920380), 37.111.42.22
+</request-getconfig>
+		<request-sslvpnconnect> (0), ::
+</request-sslvpnconnect></entry>
+	<entry>
+		<domain/>
+		<islocal>no</islocal>
+		<username>htaung</username>
+		<primary-username>htaung</primary-username>
+		<region-for-config>MM</region-for-config>
+		<source-region>MM</source-region>
+		<computer>SBLT-80</computer>
+		<client>Microsoft Windows 11 Pro , 64-bit</client>
+		<vpn-type>Device Level VPN</vpn-type>
+		<host-id>cb1e0e94-393e-434d-9a87-858192a9533d</host-id>
+		<app-version>6.1.2-83</app-version>
+		<virtual-ip>10.11.10.127</virtual-ip>
+		<virtual-ipv6>::</virtual-ipv6>
+		<public-ip>103.52.228.75</public-ip>
+		<public-ipv6>::</public-ipv6>
+		<tunnel-type>IPSec</tunnel-type>
+		<public-connection-ipv6>no</public-connection-ipv6>
+		<client-ip>103.52.228.75</client-ip>
+		<login-time>Dec.17 15:23:06</login-time>
+		<login-time-utc>1734425586</login-time-utc>
+		<lifetime>2592000</lifetime>
+		<request-login>2024-12-17 15:23:06.524 (1734425586524), 103.52.228.75
+</request-login>
+		<request-getconfig>2024-12-17 15:23:06.732 (1734425586732), 103.52.228.75
+</request-getconfig>
+		<request-sslvpnconnect> (0), ::
+</request-sslvpnconnect></entry>
+	<entry>
+		<domain/>
+		<islocal>no</islocal>
+		<username>BO_ppkyaw</username>
+		<primary-username>bo_ppkyaw</primary-username>
+		<region-for-config>MM</region-for-config>
+		<source-region>MM</source-region>
+		<computer>SBLT-163</computer>
+		<client>Microsoft Windows 11 Pro , 64-bit</client>
+		<vpn-type>Device Level VPN</vpn-type>
+		<host-id>57a7e526-469b-4951-8c1f-e7506ee567ed</host-id>
+		<app-version>6.1.2-83</app-version>
+		<virtual-ip>10.11.10.133</virtual-ip>
+		<virtual-ipv6>::</virtual-ipv6>
+		<public-ip>103.52.228.75</public-ip>
+		<public-ipv6>::</public-ipv6>
+		<tunnel-type>IPSec</tunnel-type>
+		<public-connection-ipv6>no</public-connection-ipv6>
+		<client-ip>103.52.228.75</client-ip>
+		<login-time>Dec.17 10:02:18</login-time>
+		<login-time-utc>1734406338</login-time-utc>
+		<lifetime>2592000</lifetime>
+		<request-login>2024-12-17 10:02:18.874 (1734406338874), 103.52.228.75
+</request-login>
+		<request-getconfig>2024-12-17 10:02:19.081 (1734406339081), 103.52.228.75
+</request-getconfig>
+		<request-sslvpnconnect> (0), ::
+</request-sslvpnconnect></entry>
+	<entry>
+		<domain/>
+		<islocal>no</islocal>
+		<username>duypq</username>
+		<primary-username>duypq</primary-username>
+		<region-for-config>VN</region-for-config>
+		<source-region>VN</source-region>
+		<computer>ADMIN-PC</computer>
+		<client>Microsoft Windows 10 IoT Enterprise LTSC 2021 , 64-bit</client>
+		<vpn-type>Device Level VPN</vpn-type>
+		<host-id>777f6cac-d1ed-4d9d-a805-f572230fc462</host-id>
+		<app-version>6.1.2-83</app-version>
+		<virtual-ip>10.11.10.56</virtual-ip>
+		<virtual-ipv6>::</virtual-ipv6>
+		<public-ip>14.241.240.247</public-ip>
+		<public-ipv6>::</public-ipv6>
+		<tunnel-type>IPSec</tunnel-type>
+		<public-connection-ipv6>no</public-connection-ipv6>
+		<client-ip>14.241.240.247</client-ip>
+		<login-time>Dec.17 13:02:38</login-time>
+		<login-time-utc>1734417158</login-time-utc>
+		<lifetime>2592000</lifetime>
+		<request-login>2024-12-17 13:02:38.660 (1734417158660), 14.241.240.247
+</request-login>
+		<request-getconfig>2024-12-17 13:02:39.002 (1734417159002), 14.241.240.247
+</request-getconfig>
+		<request-sslvpnconnect> (0), ::
+</request-sslvpnconnect></entry>
+	<entry>
+		<domain/>
+		<islocal>no</islocal>
+		<username>zachan</username>
+		<primary-username>zachan</primary-username>
+		<region-for-config>MM</region-for-config>
+		<source-region>MM</source-region>
+		<computer>SBLT-106</computer>
+		<client>Microsoft Windows 10 Pro , 64-bit</client>
+		<vpn-type>Device Level VPN</vpn-type>
+		<host-id>cb1e0e94-393e-434d-9a87-858192a9533d</host-id>
+		<app-version>6.1.1-5</app-version>
+		<virtual-ip>10.11.10.92</virtual-ip>
+		<virtual-ipv6>::</virtual-ipv6>
+		<public-ip>103.52.228.75</public-ip>
+		<public-ipv6>::</public-ipv6>
+		<tunnel-type>IPSec</tunnel-type>
+		<public-connection-ipv6>no</public-connection-ipv6>
+		<client-ip>103.52.228.75</client-ip>
+		<login-time>Dec.17 15:38:31</login-time>
+		<login-time-utc>1734426511</login-time-utc>
+		<lifetime>2592000</lifetime>
+		<request-login>2024-12-17 15:38:31.352 (1734426511352), 103.52.228.75
+</request-login>
+		<request-getconfig>2024-12-17 15:38:31.538 (1734426511538), 103.52.228.75
+</request-getconfig>
+		<request-sslvpnconnect> (0), ::
+</request-sslvpnconnect></entry>
+	<entry>
+		<domain/>
+		<islocal>no</islocal>
+		<username>BB_aamon</username>
+		<primary-username>bb_aamon</primary-username>
+		<region-for-config>MM</region-for-config>
+		<source-region>MM</source-region>
+		<computer>SBLT-66</computer>
+		<client>Microsoft Windows 10 Pro , 64-bit</client>
+		<vpn-type>Device Level VPN</vpn-type>
+		<host-id>378da351-4ca1-4202-a985-c562ef3d5474</host-id>
+		<app-version>6.1.1-5</app-version>
+		<virtual-ip>10.11.10.116</virtual-ip>
+		<virtual-ipv6>::</virtual-ipv6>
+		<public-ip>103.52.228.75</public-ip>
+		<public-ipv6>::</public-ipv6>
+		<tunnel-type>IPSec</tunnel-type>
+		<public-connection-ipv6>no</public-connection-ipv6>
+		<client-ip>103.52.228.75</client-ip>
+		<login-time>Dec.17 15:12:27</login-time>
+		<login-time-utc>1734424947</login-time-utc>
+		<lifetime>2592000</lifetime>
+		<request-login>2024-12-17 15:12:27.795 (1734424947795), 103.52.228.75
+</request-login>
+		<request-getconfig>2024-12-17 15:12:27.990 (1734424947990), 103.52.228.75
+</request-getconfig>
+		<request-sslvpnconnect> (0), ::
+</request-sslvpnconnect></entry>
+	<entry>
+		<domain/>
+		<islocal>no</islocal>
+		<username>pbtragenthub</username>
+		<primary-username>pbtragenthub</primary-username>
+		<region-for-config>MM</region-for-config>
+		<source-region>MM</source-region>
+		<computer>DESKTOP-I3I83O9</computer>
+		<client>Microsoft Windows 11 Pro , 64-bit</client>
+		<vpn-type>Device Level VPN</vpn-type>
+		<host-id>ce330c62-1200-4116-a9ce-a99a0adacf62</host-id>
+		<app-version>6.1.1-5</app-version>
+		<virtual-ip>10.11.10.118</virtual-ip>
+		<virtual-ipv6>::</virtual-ipv6>
+		<public-ip>202.157.190.50</public-ip>
+		<public-ipv6>::</public-ipv6>
+		<tunnel-type>IPSec</tunnel-type>
+		<public-connection-ipv6>no</public-connection-ipv6>
+		<client-ip>202.157.190.50</client-ip>
+		<login-time>Dec.17 14:29:35</login-time>
+		<login-time-utc>1734422375</login-time-utc>
+		<lifetime>2592000</lifetime>
+		<request-login>2024-12-17 14:29:35.513 (1734422375513), 202.157.190.50
+</request-login>
+		<request-getconfig>2024-12-17 14:29:35.728 (1734422375728), 202.157.190.50
+</request-getconfig>
+		<request-sslvpnconnect> (0), ::
+</request-sslvpnconnect></entry>
+	<entry>
+		<domain/>
+		<islocal>no</islocal>
+		<username>BO_kmmtun</username>
+		<primary-username>bo_kmmtun</primary-username>
+		<region-for-config>MM</region-for-config>
+		<source-region>MM</source-region>
+		<computer>SBLT-141</computer>
+		<client>Microsoft Windows 10 Pro , 64-bit</client>
+		<vpn-type>Device Level VPN</vpn-type>
+		<host-id>a19e91cf-3d11-43c4-8516-97d1d34dbda8</host-id>
+		<app-version>6.1.1-5</app-version>
+		<virtual-ip>10.11.10.134</virtual-ip>
+		<virtual-ipv6>::</virtual-ipv6>
+		<public-ip>103.52.228.75</public-ip>
+		<public-ipv6>::</public-ipv6>
+		<tunnel-type>IPSec</tunnel-type>
+		<public-connection-ipv6>no</public-connection-ipv6>
+		<client-ip>103.52.228.75</client-ip>
+		<login-time>Dec.17 09:00:19</login-time>
+		<login-time-utc>1734402619</login-time-utc>
+		<lifetime>2592000</lifetime>
+		<request-login>2024-12-17 09:00:19.512 (1734402619512), 103.52.228.75
+</request-login>
+		<request-getconfig>2024-12-17 09:00:19.724 (1734402619724), 103.52.228.75
+</request-getconfig>
+		<request-sslvpnconnect> (0), ::
+</request-sslvpnconnect></entry>
+	<entry>
+		<domain/>
+		<islocal>no</islocal>
+		<username>Agenthub-pt</username>
+		<primary-username>agenthub-pt</primary-username>
+		<region-for-config>MM</region-for-config>
+		<source-region>MM</source-region>
+		<computer>SBLT-217</computer>
+		<client>Microsoft Windows 10 Pro , 64-bit</client>
+		<vpn-type>Device Level VPN</vpn-type>
+		<host-id>cb1e0e94-393e-434d-9a87-858192a9533d</host-id>
+		<app-version>6.1.1-5</app-version>
+		<virtual-ip>10.11.10.120</virtual-ip>
+		<virtual-ipv6>::</virtual-ipv6>
+		<public-ip>185.205.140.105</public-ip>
+		<public-ipv6>::</public-ipv6>
+		<tunnel-type>IPSec</tunnel-type>
+		<public-connection-ipv6>no</public-connection-ipv6>
+		<client-ip>185.205.140.105</client-ip>
+		<login-time>Dec.17 16:05:20</login-time>
+		<login-time-utc>1734428120</login-time-utc>
+		<lifetime>2592000</lifetime>
+		<request-login>2024-12-17 16:05:20.218 (1734428120218), 185.205.140.105
+</request-login>
+		<request-getconfig>2024-12-17 16:05:20.418 (1734428120418), 185.205.140.105
+</request-getconfig>
+		<request-sslvpnconnect> (0), ::
+</request-sslvpnconnect></entry>
+	<entry>
+		<domain/>
+		<islocal>no</islocal>
+		<username>tpagenthub</username>
+		<primary-username>tpagenthub</primary-username>
+		<region-for-config>MM</region-for-config>
+		<source-region>MM</source-region>
+		<computer>SAH012-LT02</computer>
+		<client>Microsoft Windows 10 Pro , 64-bit</client>
+		<vpn-type>Device Level VPN</vpn-type>
+		<host-id>fbc4b306-492b-4f77-9d1d-789d3c9c3b2e</host-id>
+		<app-version>6.1.2-83</app-version>
+		<virtual-ip>10.11.10.36</virtual-ip>
+		<virtual-ipv6>::</virtual-ipv6>
+		<public-ip>202.165.88.220</public-ip>
+		<public-ipv6>::</public-ipv6>
+		<tunnel-type>IPSec</tunnel-type>
+		<public-connection-ipv6>no</public-connection-ipv6>
+		<client-ip>202.165.88.220</client-ip>
+		<login-time>Dec.17 13:40:33</login-time>
+		<login-time-utc>1734419433</login-time-utc>
+		<lifetime>2592000</lifetime>
+		<request-login>2024-12-17 13:40:33.956 (1734419433956), 202.165.88.220
+</request-login>
+		<request-getconfig>2024-12-17 13:40:34.232 (1734419434232), 202.165.88.220
+</request-getconfig>
+		<request-sslvpnconnect> (0), ::
+</request-sslvpnconnect></entry>
+	<entry>
+		<domain/>
+		<islocal>no</islocal>
+		<username>SOC_AnalystL1</username>
+		<primary-username>soc_analystl1</primary-username>
+		<region-for-config>MM</region-for-config>
+		<source-region>MM</source-region>
+		<computer>PC-THEINH</computer>
+		<client>Microsoft Windows 11 Pro , 64-bit</client>
+		<vpn-type>Device Level VPN</vpn-type>
+		<host-id>30e3c676-44b7-4b08-ba7a-f419e37a01d2</host-id>
+		<app-version>6.1.2-83</app-version>
+		<virtual-ip>10.13.10.3</virtual-ip>
+		<virtual-ipv6>::</virtual-ipv6>
+		<public-ip>204.157.173.252</public-ip>
+		<public-ipv6>::</public-ipv6>
+		<tunnel-type>IPSec</tunnel-type>
+		<public-connection-ipv6>no</public-connection-ipv6>
+		<client-ip>204.157.173.252</client-ip>
+		<login-time>Dec.17 15:42:08</login-time>
+		<login-time-utc>1734426728</login-time-utc>
+		<lifetime>2592000</lifetime>
+		<request-login>2024-12-17 15:42:08.413 (1734426728413), 204.157.173.252
+</request-login>
+		<request-getconfig>2024-12-17 15:42:08.557 (1734426728557), 204.157.173.252
+</request-getconfig>
+		<request-sslvpnconnect> (0), ::
+</request-sslvpnconnect></entry>
+	<entry>
+		<domain/>
+		<islocal>no</islocal>
+		<username>PreMDY_ksoe</username>
+		<primary-username>premdy_ksoe</primary-username>
+		<region-for-config>MM</region-for-config>
+		<source-region>MM</source-region>
+		<computer>SBLT-269</computer>
+		<client>Microsoft Windows 10 Pro , 64-bit</client>
+		<vpn-type>Device Level VPN</vpn-type>
+		<host-id>1c76fe49-ea61-4af7-a6b0-cd51327dd68d</host-id>
+		<app-version>6.1.1-5</app-version>
+		<virtual-ip>10.11.10.98</virtual-ip>
+		<virtual-ipv6>::</virtual-ipv6>
+		<public-ip>103.25.243.18</public-ip>
+		<public-ipv6>::</public-ipv6>
+		<tunnel-type>IPSec</tunnel-type>
+		<public-connection-ipv6>no</public-connection-ipv6>
+		<client-ip>103.25.243.18</client-ip>
+		<login-time>Dec.17 16:12:21</login-time>
+		<login-time-utc>1734428541</login-time-utc>
+		<lifetime>2592000</lifetime>
+		<request-login>2024-12-17 16:12:21.303 (1734428541303), 103.25.243.18
+</request-login>
+		<request-getconfig>2024-12-17 16:12:21.516 (1734428541516), 103.25.243.18
+</request-getconfig>
+		<request-sslvpnconnect> (0), ::
+</request-sslvpnconnect></entry>
+	<entry>
+		<domain/>
+		<islocal>no</islocal>
+		<username>SOC_AnalystL2</username>
+		<primary-username>soc_analystl2</primary-username>
+		<region-for-config>MM</region-for-config>
+		<source-region>MM</source-region>
+		<computer>PC-ZIN-HA</computer>
+		<client>Microsoft Windows 10 Enterprise , 64-bit</client>
+		<vpn-type>Device Level VPN</vpn-type>
+		<host-id>06fd8c34-6021-4c26-8167-0e69ee820b44</host-id>
+		<app-version>6.1.1-5</app-version>
+		<virtual-ip>10.13.10.4</virtual-ip>
+		<virtual-ipv6>::</virtual-ipv6>
+		<public-ip>37.111.53.118</public-ip>
+		<public-ipv6>::</public-ipv6>
+		<tunnel-type>IPSec</tunnel-type>
+		<public-connection-ipv6>no</public-connection-ipv6>
+		<client-ip>37.111.53.118</client-ip>
+		<login-time>Dec.17 15:41:51</login-time>
+		<login-time-utc>1734426711</login-time-utc>
+		<lifetime>2592000</lifetime>
+		<request-login>2024-12-17 15:41:51.112 (1734426711112), 37.111.53.118
+</request-login>
+		<request-getconfig>2024-12-17 15:41:51.317 (1734426711317), 37.111.53.118
+</request-getconfig>
+		<request-sslvpnconnect> (0), ::
+</request-sslvpnconnect></entry>
+	<entry>
+		<domain/>
+		<islocal>no</islocal>
+		<username>pmnagenthub</username>
+		<primary-username>pmnagenthub</primary-username>
+		<region-for-config>MM</region-for-config>
+		<source-region>MM</source-region>
+		<computer>SAH005-LT02</computer>
+		<client>Microsoft Windows 10 Pro , 64-bit</client>
+		<vpn-type>Device Level VPN</vpn-type>
+		<host-id>3e8a84c9-7abb-47c9-a6f6-f05965fbb617</host-id>
+		<app-version>6.1.1-5</app-version>
+		<virtual-ip>10.11.10.83</virtual-ip>
+		<virtual-ipv6>::</virtual-ipv6>
+		<public-ip>103.83.188.188</public-ip>
+		<public-ipv6>::</public-ipv6>
+		<tunnel-type>IPSec</tunnel-type>
+		<public-connection-ipv6>no</public-connection-ipv6>
+		<client-ip>103.83.188.188</client-ip>
+		<login-time>Dec.17 08:04:44</login-time>
+		<login-time-utc>1734399284</login-time-utc>
+		<lifetime>2592000</lifetime>
+		<request-login>2024-12-17 08:04:44.374 (1734399284374), 103.83.188.188
+</request-login>
+		<request-getconfig>2024-12-17 08:04:44.662 (1734399284662), 103.83.188.188
+</request-getconfig>
+		<request-sslvpnconnect> (0), ::
+</request-sslvpnconnect></entry>
+	<entry>
+		<domain/>
+		<islocal>no</islocal>
+		<username>pbtragenthub</username>
+		<primary-username>pbtragenthub</primary-username>
+		<region-for-config>MM</region-for-config>
+		<source-region>MM</source-region>
+		<computer>SAH004-LT01</computer>
+		<client>Microsoft Windows 11 Pro , 64-bit</client>
+		<vpn-type>Device Level VPN</vpn-type>
+		<host-id>3e8a84c9-7abb-47c9-a6f6-f05965fbb617</host-id>
+		<app-version>6.1.1-5</app-version>
+		<virtual-ip>10.11.10.106</virtual-ip>
+		<virtual-ipv6>::</virtual-ipv6>
+		<public-ip>202.157.190.50</public-ip>
+		<public-ipv6>::</public-ipv6>
+		<tunnel-type>IPSec</tunnel-type>
+		<public-connection-ipv6>no</public-connection-ipv6>
+		<client-ip>202.157.190.50</client-ip>
+		<login-time>Dec.17 15:39:47</login-time>
+		<login-time-utc>1734426587</login-time-utc>
+		<lifetime>2592000</lifetime>
+		<request-login>2024-12-17 15:39:47.858 (1734426587858), 202.157.190.50
+</request-login>
+		<request-getconfig>2024-12-17 15:39:48.068 (1734426588068), 202.157.190.50
+</request-getconfig>
+		<request-sslvpnconnect> (0), ::
+</request-sslvpnconnect></entry>
+	<entry>
+		<domain/>
+		<islocal>no</islocal>
+		<username>phkyaw</username>
+		<primary-username>phkyaw</primary-username>
+		<region-for-config>MM</region-for-config>
+		<source-region>MM</source-region>
+		<computer>SHWELP-0029</computer>
+		<client>Microsoft Windows 10 Pro , 64-bit</client>
+		<vpn-type>Device Level VPN</vpn-type>
+		<host-id>cb1e0e94-393e-434d-9a87-858192a9533d</host-id>
+		<app-version>6.1.1-5</app-version>
+		<virtual-ip>10.11.10.104</virtual-ip>
+		<virtual-ipv6>::</virtual-ipv6>
+		<public-ip>103.52.228.75</public-ip>
+		<public-ipv6>::</public-ipv6>
+		<tunnel-type>IPSec</tunnel-type>
+		<public-connection-ipv6>no</public-connection-ipv6>
+		<client-ip>103.52.228.75</client-ip>
+		<login-time>Dec.17 15:08:00</login-time>
+		<login-time-utc>1734424680</login-time-utc>
+		<lifetime>2592000</lifetime>
+		<request-login>2024-12-17 15:08:00.708 (1734424680708), 103.52.228.75
+</request-login>
+		<request-getconfig>2024-12-17 15:08:01.110 (1734424681110), 103.52.228.75
+</request-getconfig>
+		<request-sslvpnconnect> (0), ::
+</request-sslvpnconnect></entry>
+	<entry>
+		<domain/>
+		<islocal>no</islocal>
+		<username>BO_ktheun</username>
+		<primary-username>bo_ktheun</primary-username>
+		<region-for-config>MM</region-for-config>
+		<source-region>MM</source-region>
+		<computer>SHWELP-0015</computer>
+		<client>Microsoft Windows 11 Pro , 64-bit</client>
+		<vpn-type>Device Level VPN</vpn-type>
+		<host-id>cb1e0e94-393e-434d-9a87-858192a9533d</host-id>
+		<app-version>6.1.2-83</app-version>
+		<virtual-ip>10.11.10.225</virtual-ip>
+		<virtual-ipv6>::</virtual-ipv6>
+		<public-ip>103.52.228.75</public-ip>
+		<public-ipv6>::</public-ipv6>
+		<tunnel-type>IPSec</tunnel-type>
+		<public-connection-ipv6>no</public-connection-ipv6>
+		<client-ip>103.52.228.75</client-ip>
+		<login-time>Dec.17 10:43:02</login-time>
+		<login-time-utc>1734408782</login-time-utc>
+		<lifetime>2592000</lifetime>
+		<request-login>2024-12-17 10:43:02.802 (1734408782802), 103.52.228.75
+</request-login>
+		<request-getconfig>2024-12-17 10:43:02.990 (1734408782990), 103.52.228.75
+</request-getconfig>
+		<request-sslvpnconnect> (0), ::
+</request-sslvpnconnect></entry>
+	<entry>
+		<domain/>
+		<islocal>no</islocal>
+		<username>BO_kkkhine</username>
+		<primary-username>bo_kkkhine</primary-username>
+		<region-for-config>MM</region-for-config>
+		<source-region>MM</source-region>
+		<computer>SHWELP-0014</computer>
+		<client>Microsoft Windows 10 Home Single Language , 64-bit</client>
+		<vpn-type>Device Level VPN</vpn-type>
+		<host-id>f454f029-6fb4-4476-af0f-d83343b72860</host-id>
+		<app-version>6.1.1-5</app-version>
+		<virtual-ip>10.11.10.132</virtual-ip>
+		<virtual-ipv6>::</virtual-ipv6>
+		<public-ip>103.52.228.75</public-ip>
+		<public-ipv6>::</public-ipv6>
+		<tunnel-type>IPSec</tunnel-type>
+		<public-connection-ipv6>no</public-connection-ipv6>
+		<client-ip>103.52.228.75</client-ip>
+		<login-time>Dec.17 09:32:59</login-time>
+		<login-time-utc>1734404579</login-time-utc>
+		<lifetime>2592000</lifetime>
+		<request-login>2024-12-17 09:32:59.260 (1734404579260), 103.52.228.75
+</request-login>
+		<request-getconfig>2024-12-17 09:32:59.454 (1734404579454), 103.52.228.75
+</request-getconfig>
+		<request-sslvpnconnect> (0), ::
+</request-sslvpnconnect></entry>
+	<entry>
+		<domain/>
+		<islocal>no</islocal>
+		<username>SOC_nahlaing</username>
+		<primary-username>soc_nahlaing</primary-username>
+		<region-for-config>MM</region-for-config>
+		<source-region>MM</source-region>
+		<computer>SBLT-293</computer>
+		<client>Microsoft Windows 10 Pro , 64-bit</client>
+		<vpn-type>Device Level VPN</vpn-type>
+		<host-id>a69bf39a-c46a-49c0-89fd-151e5ecd32a7</host-id>
+		<app-version>6.1.1-5</app-version>
+		<virtual-ip>10.13.10.7</virtual-ip>
+		<virtual-ipv6>::</virtual-ipv6>
+		<public-ip>103.52.228.75</public-ip>
+		<public-ipv6>::</public-ipv6>
+		<tunnel-type>IPSec</tunnel-type>
+		<public-connection-ipv6>no</public-connection-ipv6>
+		<client-ip>103.52.228.75</client-ip>
+		<login-time>Dec.17 14:19:49</login-time>
+		<login-time-utc>1734421789</login-time-utc>
+		<lifetime>2592000</lifetime>
+		<request-login>2024-12-17 14:19:49.106 (1734421789106), 103.52.228.75
+</request-login>
+		<request-getconfig>2024-12-17 14:19:49.314 (1734421789314), 103.52.228.75
+</request-getconfig>
+		<request-sslvpnconnect> (0), ::
+</request-sslvpnconnect></entry>
+	<entry>
+		<domain/>
+		<islocal>no</islocal>
+		<username>mdagenthub</username>
+		<primary-username>mdagenthub</primary-username>
+		<region-for-config>MM</region-for-config>
+		<source-region>MM</source-region>
+		<computer>SAH005-PC01</computer>
+		<client>Microsoft Windows 10 Pro , 64-bit</client>
+		<vpn-type>Device Level VPN</vpn-type>
+		<host-id>3e8a84c9-7abb-47c9-a6f6-f05965fbb617</host-id>
+		<app-version>6.1.1-5</app-version>
+		<virtual-ip>10.11.10.115</virtual-ip>
+		<virtual-ipv6>::</virtual-ipv6>
+		<public-ip>45.41.109.106</public-ip>
+		<public-ipv6>::</public-ipv6>
+		<tunnel-type>IPSec</tunnel-type>
+		<public-connection-ipv6>no</public-connection-ipv6>
+		<client-ip>45.41.109.106</client-ip>
+		<login-time>Dec.17 16:04:51</login-time>
+		<login-time-utc>1734428091</login-time-utc>
+		<lifetime>2592000</lifetime>
+		<request-login>2024-12-17 16:04:51.372 (1734428091372), 45.41.109.106
+</request-login>
+		<request-getconfig>2024-12-17 16:04:51.579 (1734428091579), 45.41.109.106
+</request-getconfig>
+		<request-sslvpnconnect> (0), ::
+</request-sslvpnconnect></entry>
+	<entry>
+		<domain/>
+		<islocal>no</islocal>
+		<username>tuannv</username>
+		<primary-username>tuannv</primary-username>
+		<region-for-config>VN</region-for-config>
+		<source-region>VN</source-region>
+		<computer>WIN-5FN04MGJABU</computer>
+		<client>Microsoft Windows Server 2012 Standard Edition, 64-bit</client>
+		<vpn-type>Device Level VPN</vpn-type>
+		<host-id>595b054e-227b-4dd0-9b25-74c1a2ca47e3</host-id>
+		<app-version>6.1.1-5</app-version>
+		<virtual-ip>10.11.10.80</virtual-ip>
+		<virtual-ipv6>::</virtual-ipv6>
+		<public-ip>1.53.252.85</public-ip>
+		<public-ipv6>::</public-ipv6>
+		<tunnel-type>IPSec</tunnel-type>
+		<public-connection-ipv6>no</public-connection-ipv6>
+		<client-ip>1.53.252.85</client-ip>
+		<login-time>Dec.16 10:42:19</login-time>
+		<login-time-utc>1734322339</login-time-utc>
+		<lifetime>2592000</lifetime>
+		<request-login>2024-12-16 10:42:19.038 (1734322339038), 1.53.252.85
+</request-login>
+		<request-getconfig>2024-12-16 10:42:20.070 (1734322340070), 1.53.252.85
+</request-getconfig>
+		<request-sslvpnconnect> (0), ::
+</request-sslvpnconnect></entry>
+	<entry>
+		<domain/>
+		<islocal>no</islocal>
+		<username>ktbo</username>
+		<primary-username>ktbo</primary-username>
+		<region-for-config>MM</region-for-config>
+		<source-region>MM</source-region>
+		<computer>SBLT-85</computer>
+		<client>Microsoft Windows 10 Pro , 64-bit</client>
+		<vpn-type>Device Level VPN</vpn-type>
+		<host-id>766e4f1d-0990-44db-bf89-05af7b04bcaf</host-id>
+		<app-version>6.1.1-5</app-version>
+		<virtual-ip>10.11.10.128</virtual-ip>
+		<virtual-ipv6>::</virtual-ipv6>
+		<public-ip>103.52.228.75</public-ip>
+		<public-ipv6>::</public-ipv6>
+		<tunnel-type>IPSec</tunnel-type>
+		<public-connection-ipv6>no</public-connection-ipv6>
+		<client-ip>103.52.228.75</client-ip>
+		<login-time>Dec.17 13:14:12</login-time>
+		<login-time-utc>1734417852</login-time-utc>
+		<lifetime>2592000</lifetime>
+		<request-login>2024-12-17 13:14:12.497 (1734417852497), 103.52.228.75
+</request-login>
+		<request-getconfig>2024-12-17 13:14:12.699 (1734417852699), 103.52.228.75
+</request-getconfig>
+		<request-sslvpnconnect> (0), ::
+</request-sslvpnconnect></entry>
+	<entry>
+		<domain/>
+		<islocal>no</islocal>
+		<username>duypq</username>
+		<primary-username>duypq</primary-username>
+		<region-for-config>VN</region-for-config>
+		<source-region>VN</source-region>
+		<computer>VM-WIN10-175</computer>
+		<client>Microsoft Windows 10 Pro , 64-bit</client>
+		<vpn-type>Device Level VPN</vpn-type>
+		<host-id>a2dcf37b-6447-4b63-a3cf-777711d15bb0</host-id>
+		<app-version>6.1.2-83</app-version>
+		<virtual-ip>10.11.10.68</virtual-ip>
+		<virtual-ipv6>::</virtual-ipv6>
+		<public-ip>124.158.13.197</public-ip>
+		<public-ipv6>::</public-ipv6>
+		<tunnel-type>IPSec</tunnel-type>
+		<public-connection-ipv6>no</public-connection-ipv6>
+		<client-ip>124.158.13.197</client-ip>
+		<login-time>Dec.17 15:12:29</login-time>
+		<login-time-utc>1734424949</login-time-utc>
+		<lifetime>2592000</lifetime>
+		<request-login>2024-12-17 15:12:29.278 (1734424949278), 124.158.13.197
+</request-login>
+		<request-getconfig>2024-12-17 15:12:29.651 (1734424949651), 124.158.13.197
+</request-getconfig>
+		<request-sslvpnconnect> (0), ::
+</request-sslvpnconnect></entry>
+	<entry>
+		<domain/>
+		<islocal>no</islocal>
+		<username>Agenthub-kpk</username>
+		<primary-username>agenthub-kpk</primary-username>
+		<region-for-config>MM</region-for-config>
+		<source-region>MM</source-region>
+		<computer>SBLT-219</computer>
+		<client>Microsoft Windows 10 Pro , 64-bit</client>
+		<vpn-type>Device Level VPN</vpn-type>
+		<host-id>cb1e0e94-393e-434d-9a87-858192a9533d</host-id>
+		<app-version>6.1.1-5</app-version>
+		<virtual-ip>10.11.10.86</virtual-ip>
+		<virtual-ipv6>::</virtual-ipv6>
+		<public-ip>45.41.104.163</public-ip>
+		<public-ipv6>::</public-ipv6>
+		<tunnel-type>IPSec</tunnel-type>
+		<public-connection-ipv6>no</public-connection-ipv6>
+		<client-ip>45.41.104.163</client-ip>
+		<login-time>Dec.17 14:33:39</login-time>
+		<login-time-utc>1734422619</login-time-utc>
+		<lifetime>2592000</lifetime>
+		<request-login>2024-12-17 14:33:39.797 (1734422619797), 45.41.104.163
+</request-login>
+		<request-getconfig>2024-12-17 14:33:40.022 (1734422620022), 45.41.104.163
+</request-getconfig>
+		<request-sslvpnconnect> (0), ::
+</request-sslvpnconnect></entry>
+	<entry>
+		<domain/>
+		<islocal>no</islocal>
+		<username>nlbagenthub</username>
+		<primary-username>nlbagenthub</primary-username>
+		<region-for-config>MM</region-for-config>
+		<source-region>MM</source-region>
+		<computer>SAH008-LT02</computer>
+		<client>Microsoft Windows 10 Pro , 64-bit</client>
+		<vpn-type>Device Level VPN</vpn-type>
+		<host-id>cb1e0e94-393e-434d-9a87-858192a9533d</host-id>
+		<app-version>6.1.1-5</app-version>
+		<virtual-ip>10.11.10.37</virtual-ip>
+		<virtual-ipv6>::</virtual-ipv6>
+		<public-ip>202.165.84.217</public-ip>
+		<public-ipv6>::</public-ipv6>
+		<tunnel-type>IPSec</tunnel-type>
+		<public-connection-ipv6>no</public-connection-ipv6>
+		<client-ip>202.165.84.217</client-ip>
+		<login-time>Dec.17 15:24:35</login-time>
+		<login-time-utc>1734425675</login-time-utc>
+		<lifetime>2592000</lifetime>
+		<request-login>2024-12-17 15:24:35.510 (1734425675510), 202.165.84.217
+</request-login>
+		<request-getconfig>2024-12-17 15:24:35.701 (1734425675701), 202.165.84.217
+</request-getconfig>
+		<request-sslvpnconnect> (0), ::
+</request-sslvpnconnect></entry>
+	<entry>
+		<domain/>
+		<islocal>no</islocal>
+		<username>thagenthub</username>
+		<primary-username>thagenthub</primary-username>
+		<region-for-config>MM</region-for-config>
+		<source-region>MM</source-region>
+		<computer>SAH006-LT02</computer>
+		<client>Microsoft Windows 10 Pro , 64-bit</client>
+		<vpn-type>Device Level VPN</vpn-type>
+		<host-id>3e8a84c9-7abb-47c9-a6f6-f05965fbb617</host-id>
+		<app-version>6.1.1-5</app-version>
+		<virtual-ip>10.11.10.102</virtual-ip>
+		<virtual-ipv6>::</virtual-ipv6>
+		<public-ip>203.96.240.32</public-ip>
+		<public-ipv6>::</public-ipv6>
+		<tunnel-type>IPSec</tunnel-type>
+		<public-connection-ipv6>no</public-connection-ipv6>
+		<client-ip>203.96.240.52</client-ip>
+		<login-time>Dec.17 15:27:09</login-time>
+		<login-time-utc>1734425829</login-time-utc>
+		<lifetime>2592000</lifetime>
+		<request-login>2024-12-17 15:27:09.374 (1734425829374), 203.96.240.52
+</request-login>
+		<request-getconfig>2024-12-17 15:27:09.576 (1734425829576), 203.96.240.52
+</request-getconfig>
+		<request-sslvpnconnect> (0), ::
+</request-sslvpnconnect></entry>
+	<entry>
+		<domain/>
+		<islocal>no</islocal>
+		<username>Agenthub-pt</username>
+		<primary-username>agenthub-pt</primary-username>
+		<region-for-config>MM</region-for-config>
+		<source-region>MM</source-region>
+		<computer>SBLT-218</computer>
+		<client>Microsoft Windows 10 Pro , 64-bit</client>
+		<vpn-type>Device Level VPN</vpn-type>
+		<host-id>cb1e0e94-393e-434d-9a87-858192a9533d</host-id>
+		<app-version>6.1.1-5</app-version>
+		<virtual-ip>10.11.10.119</virtual-ip>
+		<virtual-ipv6>::</virtual-ipv6>
+		<public-ip>185.205.140.105</public-ip>
+		<public-ipv6>::</public-ipv6>
+		<tunnel-type>IPSec</tunnel-type>
+		<public-connection-ipv6>no</public-connection-ipv6>
+		<client-ip>185.205.140.105</client-ip>
+		<login-time>Dec.17 14:00:04</login-time>
+		<login-time-utc>1734420604</login-time-utc>
+		<lifetime>2592000</lifetime>
+		<request-login>2024-12-17 14:00:04.810 (1734420604810), 185.205.140.105
+</request-login>
+		<request-getconfig>2024-12-17 14:00:04.879 (1734420604879), 185.205.140.105
+</request-getconfig>
+		<request-sslvpnconnect> (0), ::
+</request-sslvpnconnect></entry>
+	<entry>
+		<domain/>
+		<islocal>no</islocal>
+		<username>BB_ttoo</username>
+		<primary-username>bb_ttoo</primary-username>
+		<region-for-config>MM</region-for-config>
+		<source-region>MM</source-region>
+		<computer>SBLT-73</computer>
+		<client>Microsoft Windows 10 Pro N , 64-bit</client>
+		<vpn-type>Device Level VPN</vpn-type>
+		<host-id>5c8498ee-7603-4e46-9d3b-3d6e886cf381</host-id>
+		<app-version>6.1.1-5</app-version>
+		<virtual-ip>10.11.10.95</virtual-ip>
+		<virtual-ipv6>::</virtual-ipv6>
+		<public-ip>103.52.228.75</public-ip>
+		<public-ipv6>::</public-ipv6>
+		<tunnel-type>IPSec</tunnel-type>
+		<public-connection-ipv6>no</public-connection-ipv6>
+		<client-ip>103.52.228.75</client-ip>
+		<login-time>Dec.17 15:03:52</login-time>
+		<login-time-utc>1734424432</login-time-utc>
+		<lifetime>2592000</lifetime>
+		<request-login>2024-12-17 15:03:52.998 (1734424432998), 103.52.228.75
+</request-login>
+		<request-getconfig>2024-12-17 15:03:53.204 (1734424433204), 103.52.228.75
+</request-getconfig>
+		<request-sslvpnconnect> (0), ::
+</request-sslvpnconnect></entry>
+	<entry>
+		<domain/>
+		<islocal>no</islocal>
+		<username>thtwe</username>
+		<primary-username>thtwe</primary-username>
+		<region-for-config>MM</region-for-config>
+		<source-region>MM</source-region>
+		<computer>SBLT-115</computer>
+		<client>Microsoft Windows 11 Home Single Language , 64-bit</client>
+		<vpn-type>Device Level VPN</vpn-type>
+		<host-id>f8b8b684-2aea-405a-bdf5-c81d3b3b46ce</host-id>
+		<app-version>6.1.1-5</app-version>
+		<virtual-ip>10.11.10.93</virtual-ip>
+		<virtual-ipv6>::</virtual-ipv6>
+		<public-ip>103.52.228.75</public-ip>
+		<public-ipv6>::</public-ipv6>
+		<tunnel-type>IPSec</tunnel-type>
+		<public-connection-ipv6>no</public-connection-ipv6>
+		<client-ip>103.52.228.75</client-ip>
+		<login-time>Dec.17 09:33:54</login-time>
+		<login-time-utc>1734404634</login-time-utc>
+		<lifetime>2592000</lifetime>
+		<request-login>2024-12-17 09:33:54.924 (1734404634924), 103.52.228.75
+</request-login>
+		<request-getconfig>2024-12-17 09:33:55.132 (1734404635132), 103.52.228.75
+</request-getconfig>
+		<request-sslvpnconnect> (0), ::
+</request-sslvpnconnect></entry>
+	<entry>
+		<domain/>
+		<islocal>no</islocal>
+		<username>htyagenthub</username>
+		<primary-username>htyagenthub</primary-username>
+		<region-for-config>MM</region-for-config>
+		<source-region>MM</source-region>
+		<computer>SAH002-LT02</computer>
+		<client>Microsoft Windows 11 Pro , 64-bit</client>
+		<vpn-type>Device Level VPN</vpn-type>
+		<host-id>2082838f-92fb-4efe-9048-938d7fd90d93</host-id>
+		<app-version>6.1.1-5</app-version>
+		<virtual-ip>10.11.10.113</virtual-ip>
+		<virtual-ipv6>::</virtual-ipv6>
+		<public-ip>37.111.41.100</public-ip>
+		<public-ipv6>::</public-ipv6>
+		<tunnel-type>IPSec</tunnel-type>
+		<public-connection-ipv6>no</public-connection-ipv6>
+		<client-ip>37.111.41.100</client-ip>
+		<login-time>Dec.17 16:01:54</login-time>
+		<login-time-utc>1734427914</login-time-utc>
+		<lifetime>2592000</lifetime>
+		<request-login>2024-12-17 16:01:54.917 (1734427914917), 37.111.41.100
+</request-login>
+		<request-getconfig>2024-12-17 16:01:55.090 (1734427915090), 37.111.41.100
+</request-getconfig>
+		<request-sslvpnconnect> (0), ::
+</request-sslvpnconnect></entry>
+	<entry>
+		<domain/>
+		<islocal>no</islocal>
+		<username>nlbagenthub</username>
+		<primary-username>nlbagenthub</primary-username>
+		<region-for-config>MM</region-for-config>
+		<source-region>MM</source-region>
+		<computer>SAH008-LT01</computer>
+		<client>Microsoft Windows 10 Pro , 64-bit</client>
+		<vpn-type>Device Level VPN</vpn-type>
+		<host-id>cb1e0e94-393e-434d-9a87-858192a9533d</host-id>
+		<app-version>6.1.1-5</app-version>
+		<virtual-ip>10.11.10.100</virtual-ip>
+		<virtual-ipv6>::</virtual-ipv6>
+		<public-ip>202.165.84.217</public-ip>
+		<public-ipv6>::</public-ipv6>
+		<tunnel-type>IPSec</tunnel-type>
+		<public-connection-ipv6>no</public-connection-ipv6>
+		<client-ip>202.165.84.217</client-ip>
+		<login-time>Dec.17 15:08:06</login-time>
+		<login-time-utc>1734424686</login-time-utc>
+		<lifetime>2592000</lifetime>
+		<request-login>2024-12-17 15:08:06.300 (1734424686300), 202.165.84.217
+</request-login>
+		<request-getconfig>2024-12-17 15:08:06.472 (1734424686472), 202.165.84.217
+</request-getconfig>
+		<request-sslvpnconnect> (0), ::
+</request-sslvpnconnect></entry>
+	<entry>
+		<domain/>
+		<islocal>no</islocal>
+		<username>Agenthub-kpk</username>
+		<primary-username>agenthub-kpk</primary-username>
+		<region-for-config>MM</region-for-config>
+		<source-region>MM</source-region>
+		<computer>SBLT-220</computer>
+		<client>Microsoft Windows 10 Pro , 64-bit</client>
+		<vpn-type>Device Level VPN</vpn-type>
+		<host-id>cb1e0e94-393e-434d-9a87-858192a9533d</host-id>
+		<app-version>6.1.1-5</app-version>
+		<virtual-ip>10.11.10.88</virtual-ip>
+		<virtual-ipv6>::</virtual-ipv6>
+		<public-ip>45.41.104.163</public-ip>
+		<public-ipv6>::</public-ipv6>
+		<tunnel-type>IPSec</tunnel-type>
+		<public-connection-ipv6>no</public-connection-ipv6>
+		<client-ip>45.41.104.163</client-ip>
+		<login-time>Dec.17 12:58:33</login-time>
+		<login-time-utc>1734416913</login-time-utc>
+		<lifetime>2592000</lifetime>
+		<request-login>2024-12-17 12:58:33.560 (1734416913560), 45.41.104.163
+</request-login>
+		<request-getconfig>2024-12-17 12:58:33.777 (1734416913777), 45.41.104.163
+</request-getconfig>
+		<request-sslvpnconnect> (0), ::
+</request-sslvpnconnect></entry>
+	<entry>
+		<domain/>
+		<islocal>no</islocal>
+		<username>BCP2</username>
+		<primary-username>bcp2</primary-username>
+		<region-for-config>MM</region-for-config>
+		<source-region>MM</source-region>
+		<computer>SBLT-201</computer>
+		<client>Microsoft Windows 11 Pro , 64-bit</client>
+		<vpn-type>Device Level VPN</vpn-type>
+		<host-id>cb1e0e94-393e-434d-9a87-858192a9533d</host-id>
+		<app-version>6.1.1-5</app-version>
+		<virtual-ip>172.17.10.72</virtual-ip>
+		<virtual-ipv6>::</virtual-ipv6>
+		<public-ip>103.25.243.18</public-ip>
+		<public-ipv6>::</public-ipv6>
+		<tunnel-type>IPSec</tunnel-type>
+		<public-connection-ipv6>no</public-connection-ipv6>
+		<client-ip>103.25.243.18</client-ip>
+		<login-time>Dec.17 15:52:51</login-time>
+		<login-time-utc>1734427371</login-time-utc>
+		<lifetime>2592000</lifetime>
+		<request-login>2024-12-17 15:52:51.661 (1734427371661), 103.25.243.18
+</request-login>
+		<request-getconfig>2024-12-17 15:52:52.035 (1734427372035), 103.25.243.18
+</request-getconfig>
+		<request-sslvpnconnect> (0), ::
+</request-sslvpnconnect></entry>
+	<entry>
+		<domain/>
+		<islocal>no</islocal>
+		<username>BCP2</username>
+		<primary-username>bcp2</primary-username>
+		<region-for-config>MM</region-for-config>
+		<source-region>MM</source-region>
+		<computer>PMBLT-01</computer>
+		<client>Microsoft Windows 10 Pro , 64-bit</client>
+		<vpn-type>Device Level VPN</vpn-type>
+		<host-id>538d506a-7f1e-4e18-9ecd-a7997a0ad851</host-id>
+		<app-version>6.1.2-83</app-version>
+		<virtual-ip>172.17.10.90</virtual-ip>
+		<virtual-ipv6>::</virtual-ipv6>
+		<public-ip>103.52.228.75</public-ip>
+		<public-ipv6>::</public-ipv6>
+		<tunnel-type>IPSec</tunnel-type>
+		<public-connection-ipv6>no</public-connection-ipv6>
+		<client-ip>103.52.228.75</client-ip>
+		<login-time>Dec.17 15:59:39</login-time>
+		<login-time-utc>1734427779</login-time-utc>
+		<lifetime>2592000</lifetime>
+		<request-login>2024-12-17 15:59:39.526 (1734427779526), 103.52.228.75
+</request-login>
+		<request-getconfig>2024-12-17 15:59:39.605 (1734427779605), 103.52.228.75
+</request-getconfig>
+		<request-sslvpnconnect> (0), ::
+</request-sslvpnconnect></entry>
+	<entry>
+		<domain/>
+		<islocal>no</islocal>
+		<username>Admin_khhlaing</username>
+		<primary-username>admin_khhlaing</primary-username>
+		<region-for-config>MM</region-for-config>
+		<source-region>MM</source-region>
+		<computer>SHWELP-0018</computer>
+		<client>Microsoft Windows 10 Home Single Language , 64-bit</client>
+		<vpn-type>Device Level VPN</vpn-type>
+		<host-id>42369334-a473-4875-843a-031c11829288</host-id>
+		<app-version>6.1.1-5</app-version>
+		<virtual-ip>172.17.10.66</virtual-ip>
+		<virtual-ipv6>::</virtual-ipv6>
+		<public-ip>103.52.228.75</public-ip>
+		<public-ipv6>::</public-ipv6>
+		<tunnel-type>IPSec</tunnel-type>
+		<public-connection-ipv6>no</public-connection-ipv6>
+		<client-ip>103.52.228.75</client-ip>
+		<login-time>Dec.17 08:41:33</login-time>
+		<login-time-utc>1734401493</login-time-utc>
+		<lifetime>2592000</lifetime>
+		<request-login>2024-12-17 08:41:33.798 (1734401493798), 103.52.228.75
+</request-login>
+		<request-getconfig>2024-12-17 08:41:34.919 (1734401494919), 103.52.228.75
+</request-getconfig>
+		<request-sslvpnconnect> (0), ::
+</request-sslvpnconnect></entry>
+	<entry>
+		<domain/>
+		<islocal>no</islocal>
+		<username>Loan_khnaing</username>
+		<primary-username>loan_khnaing</primary-username>
+		<region-for-config>MM</region-for-config>
+		<source-region>MM</source-region>
+		<computer>SBLT-055</computer>
+		<client>Microsoft Windows 10 Home Single Language , 64-bit</client>
+		<vpn-type>Device Level VPN</vpn-type>
+		<host-id>9a459edc-1fcd-4a63-9be7-f10b35f605d9</host-id>
+		<app-version>6.1.1-5</app-version>
+		<virtual-ip>172.17.10.60</virtual-ip>
+		<virtual-ipv6>::</virtual-ipv6>
+		<public-ip>103.52.228.75</public-ip>
+		<public-ipv6>::</public-ipv6>
+		<tunnel-type>IPSec</tunnel-type>
+		<public-connection-ipv6>no</public-connection-ipv6>
+		<client-ip>103.52.228.75</client-ip>
+		<login-time>Dec.17 09:19:38</login-time>
+		<login-time-utc>1734403778</login-time-utc>
+		<lifetime>2592000</lifetime>
+		<request-login>2024-12-17 09:19:38.437 (1734403778437), 103.52.228.75
+</request-login>
+		<request-getconfig>2024-12-17 09:19:39.095 (1734403779095), 103.52.228.75
+</request-getconfig>
+		<request-sslvpnconnect> (0), ::
+</request-sslvpnconnect></entry>
+	<entry>
+		<domain/>
+		<islocal>no</islocal>
+		<username>Admin_ommoe</username>
+		<primary-username>admin_ommoe</primary-username>
+		<region-for-config>MM</region-for-config>
+		<source-region>MM</source-region>
+		<computer>SBLT-132</computer>
+		<client>Microsoft Windows 10 Pro , 64-bit</client>
+		<vpn-type>Device Level VPN</vpn-type>
+		<host-id>cb1e0e94-393e-434d-9a87-858192a9533d</host-id>
+		<app-version>6.1.1-5</app-version>
+		<virtual-ip>172.17.10.64</virtual-ip>
+		<virtual-ipv6>::</virtual-ipv6>
+		<public-ip>103.52.228.75</public-ip>
+		<public-ipv6>::</public-ipv6>
+		<tunnel-type>IPSec</tunnel-type>
+		<public-connection-ipv6>no</public-connection-ipv6>
+		<client-ip>103.52.228.75</client-ip>
+		<login-time>Dec.17 15:35:44</login-time>
+		<login-time-utc>1734426344</login-time-utc>
+		<lifetime>2592000</lifetime>
+		<request-login>2024-12-17 15:35:44.622 (1734426344622), 103.52.228.75
+</request-login>
+		<request-getconfig>2024-12-17 15:35:45.032 (1734426345032), 103.52.228.75
+</request-getconfig>
+		<request-sslvpnconnect> (0), ::
+</request-sslvpnconnect></entry>
+	<entry>
+		<domain/>
+		<islocal>no</islocal>
+		<username>BCP1</username>
+		<primary-username>bcp1</primary-username>
+		<region-for-config>MM</region-for-config>
+		<source-region>MM</source-region>
+		<computer>SBLT-065</computer>
+		<client>Microsoft Windows 11 Pro , 64-bit</client>
+		<vpn-type>Device Level VPN</vpn-type>
+		<host-id>fc183546-b71c-4b36-aafc-1e4023917cb8</host-id>
+		<app-version>6.1.1-5</app-version>
+		<virtual-ip>172.17.10.68</virtual-ip>
+		<virtual-ipv6>::</virtual-ipv6>
+		<public-ip>103.52.228.75</public-ip>
+		<public-ipv6>::</public-ipv6>
+		<tunnel-type>IPSec</tunnel-type>
+		<public-connection-ipv6>no</public-connection-ipv6>
+		<client-ip>103.52.228.75</client-ip>
+		<login-time>Dec.17 09:12:40</login-time>
+		<login-time-utc>1734403360</login-time-utc>
+		<lifetime>2592000</lifetime>
+		<request-login>2024-12-17 09:12:40.168 (1734403360168), 103.52.228.75
+</request-login>
+		<request-getconfig>2024-12-17 09:12:40.231 (1734403360231), 103.52.228.75
+</request-getconfig>
+		<request-sslvpnconnect> (0), ::
+</request-sslvpnconnect></entry>
+	<entry>
+		<domain/>
+		<islocal>no</islocal>
+		<username>Admin_kktin</username>
+		<primary-username>admin_kktin</primary-username>
+		<region-for-config>MM</region-for-config>
+		<source-region>MM</source-region>
+		<computer>SBLT-137</computer>
+		<client>Microsoft Windows 10 Pro , 64-bit</client>
+		<vpn-type>Device Level VPN</vpn-type>
+		<host-id>bd5183c9-a9c2-4270-9cc7-d93f9ed63cfb</host-id>
+		<app-version>6.1.2-83</app-version>
+		<virtual-ip>172.17.10.62</virtual-ip>
+		<virtual-ipv6>::</virtual-ipv6>
+		<public-ip>103.52.228.75</public-ip>
+		<public-ipv6>::</public-ipv6>
+		<tunnel-type>IPSec</tunnel-type>
+		<public-connection-ipv6>no</public-connection-ipv6>
+		<client-ip>103.52.228.75</client-ip>
+		<login-time>Dec.17 15:42:12</login-time>
+		<login-time-utc>1734426732</login-time-utc>
+		<lifetime>2592000</lifetime>
+		<request-login>2024-12-17 15:42:12.419 (1734426732419), 103.52.228.75
+</request-login>
+		<request-getconfig>2024-12-17 15:42:12.685 (1734426732685), 103.52.228.75
+</request-getconfig>
+		<request-sslvpnconnect> (0), ::
+</request-sslvpnconnect></entry>
+	<entry>
+		<domain/>
+		<islocal>no</islocal>
+		<username>BO_cclwin</username>
+		<primary-username>bo_cclwin</primary-username>
+		<region-for-config>MM</region-for-config>
+		<source-region>MM</source-region>
+		<computer>SBLT-007</computer>
+		<client>Microsoft Windows 10 Pro , 64-bit</client>
+		<vpn-type>Device Level VPN</vpn-type>
+		<host-id>aeb8c15d-2443-4884-ac58-e2dba8bceaf1</host-id>
+		<app-version>6.1.1-5</app-version>
+		<virtual-ip>172.17.10.34</virtual-ip>
+		<virtual-ipv6>::</virtual-ipv6>
+		<public-ip>103.52.228.75</public-ip>
+		<public-ipv6>::</public-ipv6>
+		<tunnel-type>IPSec</tunnel-type>
+		<public-connection-ipv6>no</public-connection-ipv6>
+		<client-ip>103.52.228.75</client-ip>
+		<login-time>Dec.17 09:18:17</login-time>
+		<login-time-utc>1734403697</login-time-utc>
+		<lifetime>2592000</lifetime>
+		<request-login>2024-12-17 09:18:17.867 (1734403697867), 103.52.228.75
+</request-login>
+		<request-getconfig>2024-12-17 09:18:17.935 (1734403697935), 103.52.228.75
+</request-getconfig>
+		<request-sslvpnconnect> (0), ::
+</request-sslvpnconnect></entry>
+	<entry>
+		<domain/>
+		<islocal>no</islocal>
+		<username>ACC_ktdtun</username>
+		<primary-username>acc_ktdtun</primary-username>
+		<region-for-config>MM</region-for-config>
+		<source-region>MM</source-region>
+		<computer>SBLT-194</computer>
+		<client>Microsoft Windows 10 Pro , 64-bit</client>
+		<vpn-type>Device Level VPN</vpn-type>
+		<host-id>766e4f1d-0990-44db-bf89-05af7b04bcaf</host-id>
+		<app-version>6.1.1-5</app-version>
+		<virtual-ip>172.17.10.82</virtual-ip>
+		<virtual-ipv6>::</virtual-ipv6>
+		<public-ip>103.52.228.75</public-ip>
+		<public-ipv6>::</public-ipv6>
+		<tunnel-type>IPSec</tunnel-type>
+		<public-connection-ipv6>no</public-connection-ipv6>
+		<client-ip>103.52.228.75</client-ip>
+		<login-time>Dec.17 13:57:08</login-time>
+		<login-time-utc>1734420428</login-time-utc>
+		<lifetime>2592000</lifetime>
+		<request-login>2024-12-17 13:57:08.259 (1734420428259), 103.52.228.75
+</request-login>
+		<request-getconfig>2024-12-17 13:57:11.085 (1734420431085), 103.52.228.75
+</request-getconfig>
+		<request-sslvpnconnect> (0), ::
+</request-sslvpnconnect></entry>
+	<entry>
+		<domain/>
+		<islocal>no</islocal>
+		<username>ACC_ttnu</username>
+		<primary-username>acc_ttnu</primary-username>
+		<region-for-config>MM</region-for-config>
+		<source-region>MM</source-region>
+		<computer>SHWELP-0004</computer>
+		<client>Microsoft Windows 10 Pro , 64-bit</client>
+		<vpn-type>Device Level VPN</vpn-type>
+		<host-id>cb1e0e94-393e-434d-9a87-858192a9533d</host-id>
+		<app-version>6.1.1-5</app-version>
+		<virtual-ip>172.17.10.85</virtual-ip>
+		<virtual-ipv6>::</virtual-ipv6>
+		<public-ip>103.52.228.75</public-ip>
+		<public-ipv6>::</public-ipv6>
+		<tunnel-type>IPSec</tunnel-type>
+		<public-connection-ipv6>no</public-connection-ipv6>
+		<client-ip>103.52.228.75</client-ip>
+		<login-time>Dec.17 08:47:19</login-time>
+		<login-time-utc>1734401839</login-time-utc>
+		<lifetime>2592000</lifetime>
+		<request-login>2024-12-17 08:47:19.608 (1734401839608), 103.52.228.75
+</request-login>
+		<request-getconfig>2024-12-17 08:47:19.811 (1734401839811), 103.52.228.75
+</request-getconfig>
+		<request-sslvpnconnect> (0), ::
+</request-sslvpnconnect></entry></result></response>
